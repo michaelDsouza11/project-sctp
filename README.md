@@ -1,6 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-<Michael Dsouza>
+# Santander Customer Transaction Prediction
+In this challenge, we need to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
